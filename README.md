@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-![Alt text](exp9.png)
+![image](https://github.com/Kirthi-Niharika/Figma/assets/114135005/a584c638-40ec-4c06-8353-675dca3d0617)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
